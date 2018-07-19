@@ -1,0 +1,16 @@
+
+
+// Notice: This computer software was prepared by Brookhaven Science
+// Associates, (the Contractor), under Federal Contract No. DE-AC02-98CH10886
+// (the Contract) with the U.S. Department of Energy (DOE).  All rights in
+// this computer software are reserved by DOE on behalf of the United States
+// Government and the Contractor as provided in the Contract.  You are
+// authorized to use this computer software solely for U.S. Governmental
+// purposes.  This software is not to be released or distributed in any form
+// or manner except as may be provided in your Software User Acknowledgment.
+// NEITHER THE UNITED STATES GOVERNMENT NOR THE CONTRACTOR MAKES ANY
+// WARRANTY, EXPRESS OR IMPLIED, OR ASSUMES ANY LIABILITY FOR THE USE OF
+// THIS SOFTWARE.  This notice including this sentence must appear on any
+// copies of this computer software.
+
+
